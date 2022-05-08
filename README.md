@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi Every one 👋
 
-<!--
-**Hossam-alahmad/Hossam-alahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Hossam and I'm software engineering and web developer for 3 years in this field and I'm still learning.
+I have dealt with many clients and provide my services to them
+And I want from this page to publish all my work and applications in order to benefit everyone
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on prive company called Global Survyes
+- 🌱 I’m currently learning Front end using react
+- 👯 I’m looking to collaborate on front end developing
+- 🤔 I’m looking for help with any one can give me advice
+- 💬 Ask me about react js
+- 📫 How to reach me: you can reach my using my personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
